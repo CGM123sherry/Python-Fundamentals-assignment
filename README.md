@@ -69,15 +69,15 @@ This class represents a car with attributes for make, model, and year. It includ
 
 2. Run the Python scripts to test the functions and class.
 
-### How to run the app in the terminal
+# How to run the app in the terminal
 
 1. check the python version
 
-   # python3 --version
+   ### python3 --version
 
 2. Navigate to the Directory Containing the Script. e.g
 
-   # python -u "/Users/macbookair/DEVELOPMENT/code/phase-3/Python-Fundamentals-assignment/lib/functions.py"
+   ### python3 -u "/Users/macbookair/DEVELOPMENT/code/phase-3/Python-Fundamentals-assignment/lib/functions.py"
 
 3. Run the Python Script
-   # python3 functions.py
+   ### python3 functions.py
